@@ -41,7 +41,7 @@
       <td>PHP REST API from scratch</td>
       <td>Traversy Media</td>
       <td>Free</td>
-      <td>Video</td>
+      <td>Video Series</td>
       <td><a href="https://www.youtube.com/watch?v=OEWXbpUMODk">Video</a></td>
     </tr>
     <tr>
