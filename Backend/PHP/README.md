@@ -6,7 +6,7 @@
 </ul>
 
 
-
+## Video Resources
 <div id="Videos">
   <table>
     <tr>
