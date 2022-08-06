@@ -35,7 +35,6 @@
       <td>Video</td>
       <td><a href="https://www.youtube.com/watch?v=kEW6f7Pilc4">Video</a></td>
     </tr>
-    
     <tr>
       <td>PHP REST API from scratch</td>
       <td>Traversy Media</td>
@@ -50,7 +49,6 @@
       <td>Video</td>
       <td><a href="https://www.youtube.com/watch?v=MYyJ4PuL4pY">Video</a></td>
     </tr>
-    
     <tr>
       <td>Laravel REST API with sanctum </td>
       <td>Traversy Media</td>
