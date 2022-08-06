@@ -1,9 +1,11 @@
-# PHP Resources 
+# PHP and Laravel Resources 
 
 ## Table of contents 
 <ul>
   <li><a href="#Videos">Video Tutorials</a></li>
 </ul>
+
+
 
 <div id="Videos">
   <table>
