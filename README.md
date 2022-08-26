@@ -10,7 +10,7 @@ It is an open-source repository where you can share information, will be reviewe
     - *More commented info is readable after forking & cloning.*
 
 ## Contributing
-![This is an image](techstack.png)
+![This is an image](techstack1.png)
 See [contributing.md](https://github.com/SpaceyaTechKe/SpaceYaTech-sessions/blob/main/CONTRIBUTING.md) to adhere to the guidelines set. Anyone can contribute. Everyone should contribute. All resources are welcome.
 
 Please adhere to this project's [code of conduct](https://github.com/SpaceyaTechKe/SpaceYaTech-sessions/blob/main/CODE_OF_CONDUCT.md)
