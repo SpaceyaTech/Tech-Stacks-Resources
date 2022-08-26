@@ -1,6 +1,6 @@
 
 # Tech-stack Resources
-![This is an image](tekstack1.png)
+![This is an image](tekstack.png)
 This is the place to get resources for your respective track or any Tech stack you want to use or learn.
 
 It is an open-source repository where you can share information, will be reviewed and added to the documentation.
