@@ -1,0 +1,2 @@
+- The course by [CS50](https://www.youtube.com/c/cs50) has a section called Data Structures by David J. Majan
+    - Check it out [here](https://www.youtube.com/watch?v=X8h4dq9Hzq8)
