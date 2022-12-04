@@ -21,19 +21,22 @@ Make sure to preview the results before making a pull request
     - [Articles](#articles)
 
 ### Books
+
+**NB**: *To prevent infractions to copyright law, only state name of the book, year the book was published, and the author(s).*
+
 1. **Django for Beginners** - is a project-based introduction to Django. Suitable for total *beginners* who have never built a website before as well as professional programmers looking for a fast-paced guide to modern web development and Django fundamentals.
 
-    Download the book [here.](https://b-ok.africa/book/11235649/1e051e)
+    Django for Beginners: Build Websites with Python and Django, 2020, William S. Vincent
 
 2. **Django for APIs** - is a project-based guide to building modern APIs with Django & Django REST Framework. It is suitable for *beginners* who have never built an API before as well as *professional programmers* looking for a fast-paced introduction to Django fundamentals and best practices.
 
-    Download the book [here.](https://b-ok.africa/book/11235720/335aea)
+    Django for APIs: Build web APIs with Python and Django, 2020, William S. Vincent
 
 3. **Django 3 By Example:** *Build powerful and reliable Python web applications from scratch.* - Step-by-step guidance to teach you how to integrate popular technologies, enhance your applications with AJAX, create RESTful APIs, and set up a production environment for your Django projects. <br/>
 This book is intended for developers with Python knowledge who wish to learn Django in a pragmatic way. <br/>
 **Check out for Django 4 by Example(Newest Version)*
 
-    Download the book [here.](https://b-ok.africa/book/5444952/62e8ea)
+    Django 3 By Example: Build powerful and reliable Python web applications from scratch, 3rd Edition, 2020, Antonio Melé
 
 
 ### Tutorials
