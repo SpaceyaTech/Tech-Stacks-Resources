@@ -22,7 +22,7 @@ Make sure to preview the results before making a pull request
 
 ### Books
 
-	**NB**: *To prevent infractions to copyright law, only state name of the book, year the book was published, and the author(s).*
+**NB**: *To prevent infractions to copyright law, only state name of the book, year the book was published, and the author(s).*
 <!--  -->
 ### Official-Documentation
 <!-- -->
