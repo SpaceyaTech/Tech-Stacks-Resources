@@ -14,13 +14,18 @@ Make sure to preview the results before making a pull request
 - [Django resources](#django-resources)
   - [Table of Contents](#table-of-contents)
     - [Books](#books)
+    - [Official Documentation](#Official-Documentation)
     - [Tutorials](#tutorials)
     - [Courses](#courses)
     - [Cheatsheets](#cheatsheets)
     - [Articles](#articles)
 
 ### Books
+
+**NB**: *To prevent infractions to copyright law, only state name of the book, year the book was published, and the author(s).*
 <!--  -->
+### Official-Documentation
+<!-- -->
 ### Tutorials
 <!--  -->
 ### Courses
@@ -29,3 +34,4 @@ Make sure to preview the results before making a pull request
 <!--  -->
 ### Articles
 <!--  -->
+
